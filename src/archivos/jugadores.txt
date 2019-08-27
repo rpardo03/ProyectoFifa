@@ -1,0 +1,3 @@
+Cristiano Ronaldo;Portugal;37;Juventus;foto;98;97;96;95;93;99
+Lionel Messi;Argentina;33;FC Barcelona;foto;99;98;96;97;95;99
+Alexis Sanchez;Chile;31;Manchester United;foto;96;92;90;94;91;97
